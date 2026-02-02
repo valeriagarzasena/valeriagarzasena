@@ -2,11 +2,11 @@
 
 **Computer Science Senior @ UTSA | Aspiring Software & Database Engineer** *Graduating May 2026*
 
-I specialize in backend development and cloud infrastructure, focusing on building high-impact tools. [cite_start]Currently, I am the **Backend Lead for Lumen**, a disaster relief tracker[cite: 1, 3]. [cite_start]I am architecting a serverless API using **AWS Lambda** and **DynamoDB** to provide real-time resource data to survivors and volunteers[cite: 38, 42, 43].
+I specialize in backend development and cloud infrastructure, focusing on building high-impact tools. Currently, I am a **Backend Developer for Lumen**, a disaster relief resource tracker. [cite_start]I am developing the serverless API using **AWS Lambda** and **DynamoDB** to provide real-time resource data to survivors and volunteers.
 
-- [cite_start]💻 **Currently Building:** [Lumen](https://github.com/valeriagarzasena/lumen) — A real-time, serverless disaster relief resource tracker[cite: 1, 2, 39].
+- 💻 **Currently Building:** [Lumen](https://github.com/valeriagarzasena/lumen) — A real-time, serverless disaster relief resource tracker.
 - ☁️ **Expertise:** AWS (Lambda, EC2, S3), Serverless Architecture, and Nginx deployment.
-- [cite_start]🗄️ **Databases:** MySQL (Relational Design, Stored Procedures, Triggers) and Amazon DynamoDB (NoSQL).
+- 🗄️ **Databases:** MySQL (Relational Design, Stored Procedures, Triggers) and Amazon DynamoDB (NoSQL).
 - 🤝 **Leadership:** Peer Mentor at UTSA, fostering a collaborative tech community for 500+ students.
 
 ---
@@ -20,11 +20,11 @@ I specialize in backend development and cloud infrastructure, focusing on buildi
 
 ---
 
-## 🔗 Connect with me
+## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valeriagarzasena) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/valeriagsena)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=valeriagarzasena&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=valeriagarzasena&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
