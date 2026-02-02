@@ -1,4 +1,4 @@
-# Hi there, I'm Valeria! 👋
+## Hi there, I'm Valeria!
 
 **Computer Science Senior @ UTSA | Aspiring Software & Database Engineer** *Graduating May 2026*
 
