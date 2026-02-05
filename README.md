@@ -18,20 +18,5 @@ I specialize in backend development and cloud infrastructure, focusing on buildi
 
 **Frameworks & Databases:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white)
 
----
 
-## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valeriagarzasena) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@valeriagarzasena) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/valeriagsena) 
-
----
-
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=valeriagarzasena&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=valeriagarzasena&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=valeriagarzasena&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-  ### You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/valeriagarzasena) 
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
